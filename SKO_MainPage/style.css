@@ -1,0 +1,124 @@
+@font-face {
+    font-family: 'Antarctican Mono';
+    src: url('data/AntarcticanMono-Bold.ttf') format('truetype');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Antarctican Mono';
+    src: url('data/AntarcticanMono-Medium.ttf') format('truetype');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Antarctican Mono';
+    src: url('data/AntarcticanMono-Book.ttf') format('truetype');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Antarctican Mono';
+    src: url('data/AntarcticanMono-BookItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+
+.column {
+    flex: 1;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+    position: relative;
+}
+
+.column2{
+  flex: 1;
+  padding-left: 304px;
+padding-right:304px;
+  text-align: left;
+  position: relative;
+}
+
+.header {
+    display: flex;
+    position: fixed;
+    justify-content: center; 
+    gap: 40px;
+    padding: 40px;
+    padding-left:47px;
+    z-index: 1000; //copilot
+}
+
+.main-buttons {
+ width: 21vw;
+height: 8vh;
+    color: black;
+    border: 1px solid black;
+    background-color:white;
+    border-radius: 17px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: book; 
+    font-family: 'Antarctican Mono', sans-serif; 
+    transition: background-color 0.3s ease, color 0.3s ease; 
+}
+
+.main-buttons:hover {
+    background-color: black; 
+    color: white; 
+}
+
+#image-section img {
+    display: block;
+    margin: 0 auto;
+    padding-top: 100px;
+    width: 58%;
+}
+
+.section-header{
+  text-align:left;
+  padding-left:21vw;
+  font-size:30px;
+  line-height: 5px;
+}
+
+.body-text{
+  font-weight:book;
+  font-size:14px;
+  text-align:left;
+}
+
+.quote{
+  padding:30px;
+}
+
+.subheading{
+  font-weight:500;
+  font-size:16px;
+}
+
+.ps {
+  padding:20px;
+  font-size:10px;
+  margin:0;
+}
+
+.inner-image {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+#inner-image img{
+  width: 300px;
+  margin:30px;
+  padding-left: 10px
+}
+
+#inner-image2 img{
+  width: 800px;
+}

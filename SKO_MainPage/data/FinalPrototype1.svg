@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1484.48 1401.57">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 130px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #ff0;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        font-family: HelveticaNeue-Medium, 'Helvetica Neue';
+        font-weight: 500;
+      }
+
+      .cls-2 {
+        font-size: 93.99px;
+      }
+
+      .cls-4 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-6 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-7 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        font-size: 60px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-7" x="46.14" width="1419" height="1024"/>
+  <polygon class="cls-6" points="392.64 359.5 798.12 359.5 831.88 393.26 831.88 565.5 803.76 593.62 392.64 593.62 364.58 565.56 364.58 378.83 392.64 359.5"/>
+  <polyline class="cls-6" points="392.64 359.5 450.64 334.5 831.88 334.5 798.12 359.5"/>
+  <polyline class="cls-6" points="831.88 334.5 863.76 366.38 834.38 395.76"/>
+  <polyline class="cls-6" points="863.76 366.38 863.76 543 836.57 570.19"/>
+  <polygon class="cls-6" points="381.64 384.5 381.64 556.46 401.66 576.48 787.27 576.48 807.44 556.31 807.44 395.76 787.41 375.73 403.53 375.73 381.64 384.5"/>
+  <rect class="cls-6" x="1249.14" y="360" width="99" height="145"/>
+  <circle class="cls-6" cx="1298.64" cy="432.5" r="31.5"/>
+  <path class="cls-6" d="M863.76,459s5.64,135.86,84.38,120c144-29,242.27,20.74,308-19,43-26,43-96,43-96"/>
+  <text class="cls-1" transform="translate(472.16 518.34)"><tspan x="0" y="0">LIFE</tspan></text>
+  <text class="cls-2" transform="translate(323.62 669.26) scale(.77) skewX(-40)"><tspan x="0" y="0">IS </tspan><tspan class="cls-5" x="113.16" y="0">P</tspan><tspan x="168.9" y="0">ASSING </tspan><tspan x="-19.17" y="112.79">AND WE DO </tspan><tspan x="-38.44" y="225.57">NOT OWN IT</tspan></text>
+  <text class="cls-3" transform="translate(51.99 1104.84)"><tspan x="0" y="0">User places plug on the socket, scene changes to </tspan><tspan x="0" y="72">black, with yellow text ‘LIFE’ appearing on clock, </tspan><tspan x="0" y="144">illuminating beneath with ‘IS </tspan><tspan class="cls-4" x="796.85" y="144">P</tspan><tspan x="832.43" y="144">ASSING AND WE DO </tspan><tspan x="0" y="216">NOT OWN IT’</tspan></text>
+</svg>
