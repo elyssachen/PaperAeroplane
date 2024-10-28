@@ -1,24 +1,24 @@
 @font-face {
     font-family: 'Antarctican Mono';
-    src: url('data/AntarcticanMono-Bold.ttf') format('truetype');
+    src: url('data/AntarcticanMono-Bold.ttf');
     font-weight: bold;
 }
 
 @font-face {
     font-family: 'Antarctican Mono';
-    src: url('data/AntarcticanMono-Medium.ttf') format('truetype');
+    src: url('data/AntarcticanMono-Medium.ttf');
     font-weight: 500;
 }
 
 @font-face {
     font-family: 'Antarctican Mono';
-    src: url('data/AntarcticanMono-Book.ttf') format('truetype');
+    src: url('data/AntarcticanMono-Book.ttf');
     font-weight: normal;
 }
 
 @font-face {
     font-family: 'Antarctican Mono';
-    src: url('data/AntarcticanMono-BookItalic.ttf') format('truetype');
+    src: url('data/AntarcticanMono-BookItalic.ttf');
     font-weight: normal;
     font-style: italic;
 }
@@ -35,7 +35,7 @@
 .column2{
   flex: 1;
   padding-left: 304px;
-padding-right:304px;
+  padding-right:304px;
   text-align: left;
   position: relative;
 }
@@ -50,9 +50,9 @@ padding-right:304px;
     z-index: 1000; //copilot
 }
 
-.main-buttons {
- width: 21vw;
-height: 8vh;
+.main-buttons { 
+    width: 21vw;
+    height: 8vh;
     color: black;
     border: 1px solid black;
     background-color:white;
